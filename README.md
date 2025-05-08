@@ -9,9 +9,9 @@ I'm a web development student with a background in social work. After several ye
 	•	CMS & Tools: WordPress, Sanity
 	•	Other: Git & GitHub, accessibility (a11y)
 
-My goal is to build thoughtful, inclusive digital tools — especially for users with cognitive or executive functioning challenges. You can see an example of this in my project [ToDoHelper](https://github.com/PU-MEriksson/ToDoHelper), which uses AI to break down tasks into manageable steps.
+My goal is to build thoughtful, inclusive digital tools — especially for users with cognitive or executive functioning challenges. You can see an example of this in my project [ToDoHelper](https://github.com/PU-MEriksson/ToDoHelper), which uses AI to break down tasks into manageable steps, and [Momentum](https://github.com/PU-MEriksson/anti-procrastinator) - a web app that helps people get started on tasks they find difficult.
 
-🌱 Right now, I'm looking for a LIA (internship) where I can continue growing as a developer and contribute to meaningful products.
+🌱 Right now, I'm looking for a LIA (internship) during november 2025 - may 2026, where I can continue growing as a developer and contribute to meaningful products.
 
 Feel free to check out my pinned projects or reach out!
 
